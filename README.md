@@ -4,13 +4,20 @@ A Power BI academic project on gold prices, gold consumption and demand in India
 
 ## About the project
 
-This report was built as a compact two-page dashboard.
+This report was built as a compact three-page dashboard.
+**Page 1 — Home Page**
+<img width="1287" height="719" alt="Screenshot 2026-10-15 142021" src="https://github.com/user-attachments/assets/0f201689-906e-4c5f-a328-5603c8f2aeee" />
 
-**Page 1 — Gold & Silver Market Pulse**  
+
+**Page 2 — Gold & Silver Market Pulse**  
 Looks at 22K gold, 999 silver, price movement and gold rates by purity.
+<img width="1282" height="720" alt="Screenshot 2026-10-05 112939" src="https://github.com/user-attachments/assets/35d86890-b514-45d7-bdb4-97eee7abb3b9" />
 
-**Page 2 — India Gold Consumption & Demand**  
+
+**Page 3 — India Gold Consumption & Demand**  
 Looks at estimated state-wise consumption, regional demand, demand segments and selected jeweller rates.
+<img width="1273" height="709" alt="Screenshot 2026-10-05 113001" src="https://github.com/user-attachments/assets/f79ff487-3786-4598-8960-59173ec84c25" />
+
 
 The main idea is simple: start with the market price, then move to where gold demand is concentrated across India.
 
